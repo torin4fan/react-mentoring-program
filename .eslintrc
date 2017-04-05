@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "airbnb"
+  ],
+  "rules": {
+    "linebreak-style": 0
+  },
+  "globals": {
+    "document": false
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
